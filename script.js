@@ -1,0 +1,1 @@
+document.getElementById('btn').onclick=()=>{document.body.style.background='#24003d';alert('Rinnegan Awakened!');};
